@@ -1,0 +1,1 @@
+from .person_hand import HandDetector
